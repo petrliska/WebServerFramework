@@ -12,6 +12,10 @@
 #! C:/Python27/python.exe
 # -*- coding: utf-8 -*-
 
+# radeckova modifikace
+def ahoj():
+    pass
+# end of radeckova modifikace
 
 import web
 
